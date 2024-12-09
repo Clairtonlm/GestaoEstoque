@@ -82,6 +82,6 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 ## 📞 Contato
 
-Seu Nome - seu-email@exemplo.com
+Seu Nome - clairtonlm@gmail.com
 
-Link do Projeto: [https://github.com/seu-usuario/gestao-estoque](https://github.com/seu-usuario/gestao-estoque)
+Link do Projeto: [https://github.com/clairtonlm/gestao-estoque](https://github.com/clairtonlm/gestao-estoque)
